@@ -1,2 +1,2 @@
-# week4
-Branch, Pull, Merge, Repeat
+# Group 3 Project
+Makin a dang ol' website
