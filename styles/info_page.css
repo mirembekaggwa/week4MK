@@ -1,0 +1,30 @@
+
+body {
+  background: repeating-linear-gradient(-45deg, #f0f0f0, #f0f0f0 20px, transparent 20px, transparent 40px) 0 0,
+              repeating-linear-gradient(-45deg, #f0f0f0, #f0f0f0 20px, transparent 20px, transparent 40px) 10px 10px;
+}
+
+p {
+  padding-top:10px;
+  padding-bottom:10px;
+  max-width: 1200px; /* Set the maximum width of the paragraph to 600 pixels */
+  margin:auto;
+}
+
+h1 {
+  color: red;
+  text-align: center;
+}
+
+img{
+    width: 300px;
+    display:block;
+    margin: auto;
+    border: 2px solid black;
+    padding: 20px;
+    border-radius: 10px;
+  }
+
+  figcaption{
+      text-align: center;
+    }
